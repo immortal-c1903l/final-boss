@@ -1,0 +1,20 @@
+body {
+    font-family: Montserrat, 'sans-serif';
+}
+
+.teamtable {
+    background-color: aliceblue;
+}
+
+table, td, th {
+    border: 1px solid grey;
+}
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+}
+
+a {
+    text-decoration: none;
+}
